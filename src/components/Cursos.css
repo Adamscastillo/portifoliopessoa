@@ -1,0 +1,14 @@
+/* src/components/Cursos.css */
+.cursos-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .curso-card {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  

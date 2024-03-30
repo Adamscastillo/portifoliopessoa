@@ -1,0 +1,21 @@
+/* src/components/FaleComigo.css */
+.social-links-container {
+    text-align: center;
+  }
+  
+  .social-links {
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    display: block; /* Exibe os links em blocos, um abaixo do outro */
+    color: #333; /* Cor dos ícones das redes sociais */
+    font-size: 24px; /* Tamanho dos ícones */
+    margin-bottom: 10px; /* Espaçamento entre os links */
+    transition: color 0.3s ease; /* Transição de cor suave */
+  }
+  
+  .social-links a:hover {
+    color: #007bff; /* Cor dos ícones das redes sociais ao passar o mouse */
+  }
+  
